@@ -1,1 +1,1 @@
-# jubilant-ia-master
+# jubilant-ai-master
