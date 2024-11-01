@@ -1,1 +1,1 @@
-# jubilant-ai-master
+# jubilant-ai-exercices
